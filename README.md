@@ -1,1 +1,1 @@
-docs: add link to project
+https://sarausen.github.io/rsschool-cv/
