@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.line {
+    height: 3px;
+    width: 1000px;
+    background-color: rgb(52, 103, 120);
+}
+.container {
+    display: block;
+    margin-top: 40px;
+    margin-left: 120px;
+    margin-bottom: 60px;
+}
+.text {
+    width: 85%;
+}
+.line {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+a {
+    text-decoration: none;
+  }
+p {
+    margin-top: 4px;
+}
+.code {
+    background-color: #e3e6e7;
+    width: 87%;
+}
+.one {
+    margin-left: 20px;
+}
+.two {
+    margin-left: 40px;
+}
+.three {
+    margin-left: 60px;
+}
+.four {
+    margin-left: 80px;
+}
+.rsschoolcv {
+    font-size: 30px;  
+    font-weight: 700; 
+}
+h1 {
+    padding-top: 30px;
+}
